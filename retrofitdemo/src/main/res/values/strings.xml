@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="get_net">获取数据</string>
+    <string name="get_theme">获取主题</string>
+</resources>

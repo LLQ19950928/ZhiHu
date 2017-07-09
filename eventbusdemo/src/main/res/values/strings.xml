@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventBusDemo</string>
+    <string name="activity_start">跳转到另一页面</string>
+    <string name="activity_finish">销毁活动</string>
+</resources>
